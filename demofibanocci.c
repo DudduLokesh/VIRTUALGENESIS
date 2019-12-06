@@ -11,4 +11,5 @@ int main ()
     int n = 9; 
 printf("%d", fib(n)); 
 getchar(); 
+  return 0;
 } 
