@@ -1,13 +1,13 @@
 #include<stdio.h> 
-int fib(int n) 
+int fib(int ) 
 { 
-if (n <= 1) 
+if (n ) 
 return fib(n-1)+fib(n-2); 
 } 
 
 int main () 
 { 
-printf("%d", fib(n)); 
+printf("%d", fib()); 
 getchar(); 
-  return 0;
+  return ;
 } 
